@@ -5,7 +5,7 @@ import seaborn as sns
 
 # Load your dataset
 # Replace 'your_dataset.xlsx' with the path to your dataset file
-data = pd.read_excel('gneres_test.xlsx')
+data = pd.read_csv('gneres_test.csv')
 
 # Selecting a subset of the dataset for a clearer visualization
 subset_data = data.iloc[:15, :]
