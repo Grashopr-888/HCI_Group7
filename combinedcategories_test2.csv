@@ -1,0 +1,51 @@
+music_terms,movie_terms,music_categories,movie_categories
+"lively, dynamic, moderate, instrumental, brisk, melodic, vibrant, energetic, lyric-free, danceable","warmth, enchanting, vivid ","Intensity, Upbeat",Nature
+"lively, dynamic, moderate, instrumental, brisk, melodic, vibrant, energetic, lyric-free, danceable","dazzling, breathtaking, depth, unforgettable","Intensity, Upbeat",Intensity
+"lively, dynamic, moderate, strong, instrumental, melodic, brisk, bold, vibrant, energetic","private, investigation, detective, isolation","Intensity, Upbeat",Nature
+"lively, dynamic, moderate, strong, instrumental, brisk, melodic, bold, vibrant, lyric-free","interstellar, fame, cosmic","Intensity, Upbeat",Fantasy
+"lively, bold, dynamic, loud, intense, strong, fast-paced, moderate, vibrant, leisurely","dazzling, pitiless, incorrigible, decadent, lavish, sardonic, devastating, opulence","Intensity, Action, Upbeat","Intensity, Emotional"
+"bold, loud, intense, rhythmic, strong, upbeat, energetic, dominant, danceable, groovy","masterful, dreams, spirits, memories, hallucinatory, dazzling","Intensity, Style, Upbeat","Intensity, Historical"
+"lively, dynamic, moderate, strong, instrumental, brisk, melodic, bold, vibrant, lyric-free","thriller, riveting, abducted, imprisoned, unflinching, intimate ","Intensity, Upbeat",
+"lively, bold, dynamic, loud, intense, strong, vibrant, dominant, powerful","wealthy, guilt, infidelity, decadence","Intensity, Upbeat",Lifestyle
+"lively, bold, dynamic, loud, intense, strong, vibrant, dominant, lyric-free, ambient","horrific, violent, mesmerizing, criminality","Intensity, Upbeat",Horror
+"lively, bold, dynamic, loud, intense, strong, vibrant, dominant, lyric-free, ambient","dangerous, vivid, struggle ","Intensity, Upbeat",
+"lively, dynamic, moderate, strong, instrumental, melodic, brisk, bold, vibrant, energetic","prosperous, farming, decline, emotional","Intensity, Upbeat",Lifestyle
+"lively, bold, dynamic, loud, intense, strong, fast-paced, moderate, vibrant, leisurely","romantic, solitary, scrappy, tenderly, love, attraction, hopeful","Intensity, Action, Upbeat",Romance
+"lively, bold, dynamic, loud, intense, strong, fast-paced, moderate, vibrant, leisurely","reflection, luminous, haunt, lover, ghosts, war, emotionally ","Intensity, Action, Upbeat",Emotional
+"lively, bold, dynamic, loud, intense, strong, vibrant, dominant, powerful","magnificent, beautifully ","Intensity, Upbeat",Action
+"lively, dynamic, moderate, strong, instrumental, melodic, brisk, bold, vibrant, energetic","surreal, fanciful, kaleidoscopic, satire, cult","Intensity, Upbeat",
+"lively, bold, dynamic, loud, intense, strong, vibrant, dominant, powerful","traditional, surreality, holy, absurdity, memorable, mysteries","Intensity, Upbeat","Historical, Lifestyle"
+"lively, bold, dynamic, loud, intense, strong, vibrant, dominant, powerful","swooning, sensual, love, free-spirited, breathtaking, chemistry, vivid, tender, yearning, emotional","Intensity, Upbeat",Romance
+"lively, bold, dynamic, loud, intense, strong, fast-paced, moderate, vibrant, leisurely","crime, redemption, fear, spiritual, elegantly, mischief, grace, ","Intensity, Action, Upbeat",Horror
+"lively, bold, dynamic, loud, intense, strong, vibrant, dominant, lyric-free, ambient","sumptuous, wrenching , suicide, traumas, pain, sorrow, joy, yearning","Intensity, Upbeat","Romance, Artistic, Style"
+"lively, bold, dynamic, loud, intense, strong, vibrant, dominant, lyric-free, ambient","Glamorous, gritty, violent, harrowing, vivid, ferocious ","Intensity, Upbeat",Lifestyle
+"lively, bold, dynamic, loud, intense, strong, vibrant, dominant, powerful","daring, vibrant, ambitious, sexually, murder, mystery","Intensity, Upbeat",Adventure
+"lively, bold, dynamic, loud, intense, strong, vibrant, dominant, powerful","bittersweet, tenderly, comic, romancing, warmly, lyrical, love, nature, beautiful","Intensity, Upbeat","Emotional, Romance"
+"happy, bold, loud, intense, rhythmic, strong, upbeat, joyful, energetic, dominant","secrets, enigma, murder, thrill, horror, terrorizing, innocent, compassion, enthralling","Intensity, Style, Upbeat",Mystery
+"lively, bold, dynamic, loud, intense, rhythmic, strong, upbeat, vibrant, energetic","money, uncompromising, complex ","Intensity, Style, Upbeat",Lifestyle
+"brisk, fast-paced, moderate, rhythmic, upbeat, leisurely, energetic, lyric-free, danceable, ambient","meditation, dancer, jealous, hypnotic ","Intensity, Action, Style",Nature
+"lively, dynamic, moderate, strong, brisk, bold, vibrant, energetic, danceable, groovy","club, suave, seediness, crime, Mesmerizing, provocative, masculine","Intensity, Upbeat","Style, Horror"
+"lively, bold, dynamic, loud, intense, strong, vibrant, dominant, powerful","swordplay, betrayal, wild, animal, swordsman","Intensity, Upbeat",Lifestyle
+"lively, dynamic, moderate, strong, instrumental, brisk, melodic, bold, vibrant, lyric-free","childhood, innocence, corrupted, war, macabre, mythical, heartbreakingly","Intensity, Upbeat",Fantasy
+"rhythmic, organic, upbeat, acoustic, energetic, natural, danceable, authentic, groovy, unplugged","picturesque, gang, robbers, religion, sex","Nature, Style",Nature
+"organic, acoustic, natural, authentic, unplugged","love, entangled, sophisticated, romantic, comedy, sparkling, elegant",Nature,"Romance, Humor"
+"lively, bold, dynamic, loud, intense, rhythmic, raw, concert-like, upbeat, vibrant","adventure, exotic, dangerous, elusive","Intensity, Style, Upbeat",Adventure
+"lively, bold, dynamic, loud, intense, rhythmic, raw, concert-like, upbeat, vibrant","Love, immortalize, dreams, disillusionment","Intensity, Style, Upbeat",
+"lively, dynamic, moderate, strong, instrumental, brisk, melodic, bold, vibrant, lyric-free","outrageous, spectacle, impressionistic, cityscape, sex, food, nightlife, hallucinatory, extravagant, myth, mystique","Intensity, Upbeat",Humor
+"lively, bold, dynamic, loud, intense, strong, vibrant, dominant, powerful","timeless, romantic, comedy perfection, charismatic, aristocratic, sparkling, melancholy","Intensity, Upbeat","Aesthetic, Romance"
+"bold, loud, intense, rhythmic, strong, upbeat, energetic, dominant, danceable, groovy","melodramatic, resistance, watershed","Intensity, Style, Upbeat",Mood
+"lively, dynamic, moderate, strong, instrumental, brisk, melodic, bold, vibrant, lyric-free","candid, rare, archival, revealing, love, courage, dedication","Intensity, Upbeat","Romance, Humor"
+"lively, bold, dynamic, loud, intense, strong, fast-paced, moderate, vibrant, leisurely","road, savagely, murdered, adventure, sentimental, perilous, extraordinary, physical, emotional","Intensity, Action, Upbeat",Adventure
+"lively, bold, dynamic, loud, intense, strong, vibrant, dominant, powerful","earthy, eroticism, stunning, maturity, sensual, ravaging, secluded, romantic, summer, beach","Intensity, Upbeat","Nature, Romance"
+"lively, bold, dynamic, loud, intense, strong, vibrant, dominant, lyric-free, ambient","romantic, honeymoon, rigid, dreaming, dashing hero of a photo-strip cartoon, drifts, charming","Intensity, Upbeat",Romance
+"fast-paced, moderate, rhythmic, upbeat, leisurely, energetic, danceable, slow, groovy, brisk","treks, eerie, enigmatic, destiny, mysterious, unsettling, ghost story, alienation, surreal, elegant","Intensity, Action, Style",Adventure
+"bold, loud, intense, rhythmic, strong, upbeat, energetic, dominant, danceable, groovy","intense, revelatory, empathetic, desperation, ferocious","Intensity, Style, Upbeat",Intensity
+"bold, loud, intense, rhythmic, strong, upbeat, energetic, dominant, danceable, groovy","personal, fresh, dazzling, funny, rueful","Intensity, Style, Upbeat","Intensity, Emotional"
+"lively, bold, dynamic, loud, intense, strong, organic, vibrant, acoustic, natural","unique, dazzling, raw, ravaging, schizophrenic, terrifying","Intensity, Nature, Upbeat","Intensity, Understated"
+"lively, dynamic, moderate, strong, instrumental, melodic, brisk, bold, vibrant, energetic","criminal, sly, stylish, murder, heroic, astonishing, triumphant","Intensity, Upbeat",Horror
+"bold, loud, intense, strong, dominant","devastating, tragic, liberation, operatic, overwhelming","Intensity, Upbeat",Emotional
+"lively, bold, dynamic, loud, intense, strong, vibrant, dominant, powerful","penetrate terrorists, thriller","Intensity, Upbeat",
+"bold, loud, intense, strong, dominant","dizzying, exploration, motherhood, reawakens, fortitude, family portrait, compassion","Intensity, Upbeat",Action
+"lively, dynamic, moderate, strong, bright, brisk, happy, bold, vibrant, joyful","lo-fi, vibrant, nicest, grit, glam, moody, frenetic, soundtrack, bygone","Intensity, Upbeat",Technology
+"lively, dynamic, moderate, strong, bright, brisk, happy, bold, vibrant, joyful","country, simple, nuanced, modern, unsentimental, Summer, respect","Intensity, Upbeat",Nature
+"lively, dynamic, moderate, strong, bright, brisk, happy, bold, vibrant, joyful","classic, sacred, biblical, lampoon, provocative, hilarious","Intensity, Upbeat",Historical
